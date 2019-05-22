@@ -1,0 +1,13 @@
+Proj02-02 : 
+  1. 在matlab打開Proj02_02資料夾。
+  2. 點開Proj02_02.m，按下run即可執行。
+  3. 在程式的第4行有Funtion，可以改參數達到不同的Level效果。
+  4. 若要執行另外一種做法，將函式名稱改為reduceIntensityLevel_v2，即可使用另外一種算法。
+Proj02-03 : 
+  1. 在matlab打開Proj02_03資料夾
+  2. 點開Proj02_03.m，按下run即可執行
+  3. 在程式的第4、5行有Funtion，可以改參數達到不同的縮放效果
+Proj02-04 : 
+  1. 在matlab打開Proj02_04資料夾
+  2. 點開Proj02_04.m，按下run即可執行
+  3. 在程式的第4、5行有Funtion，可以改參數達到不同的縮放效果
